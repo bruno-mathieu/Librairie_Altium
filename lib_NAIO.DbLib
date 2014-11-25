@@ -1,0 +1,397 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=F:\Altium\Librairies\Base_Naio.mdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=F:\Altium\Librairies\Base_Naio.mdb
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=..\Librairies
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=1
+SchemaName=
+LastFocusedTable=Connectors__Power
+[Table1]
+SchemaName=
+TableName=Antennaes
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Capacitors__ceramic
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Capacitors__electrolytic
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=Capacitors__tantalum
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=Connectors__Power
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Reference0=130|Description0=196|Footprint Ref0=246|Library Ref0=185|Displayed reference0=163|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=147|Pin Count0=69|Manufacturer0=110|Frequency band0=100|Gain0=45|Rev0=43|helpURL0=487|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=132|Supplier 20=70|Supplier Part Number 20=137|Supplier 30=70|Supplier Part Number 30=132
+[Table6]
+SchemaName=
+TableName=Connectors__RF
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=Connectors__board signal
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=Inductors
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=Integrated circuits__CPU
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=Integrated circuits__Clock & Timing
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=Integrated circuits__FPGA
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=Integrated circuits__Interface
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table13]
+SchemaName=
+TableName=Integrated circuits__Logic
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table14]
+SchemaName=
+TableName=Integrated circuits__Memory
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table15]
+SchemaName=
+TableName=Integrated circuits__Power management
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=Integrated circuits__RF
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table17]
+SchemaName=
+TableName=Integrated circuits__Signal conditioning
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table18]
+SchemaName=
+TableName=MMIC
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table19]
+SchemaName=
+TableName=Mechanical
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table20]
+SchemaName=
+TableName=Modules__Power
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table21]
+SchemaName=
+TableName=Optoelectronics
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table22]
+SchemaName=
+TableName=Resistors__Fixed
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table23]
+SchemaName=
+TableName=Resistors__Variable
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table24]
+SchemaName=
+TableName=Semiconductors__dicretes
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Antennaes.reference|TableNameOnly=Antennaes|FieldNameOnly=reference|FieldType=0|ParameterName=reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Antennaes.Description|TableNameOnly=Antennaes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Antennaes.Library Ref|TableNameOnly=Antennaes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Antennaes.Footprint Ref|TableNameOnly=Antennaes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Antennaes.Displayed reference|TableNameOnly=Antennaes|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Capacitors__ceramic.Reference|TableNameOnly=Capacitors__ceramic|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Capacitors__ceramic.Description|TableNameOnly=Capacitors__ceramic|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Capacitors__ceramic.Footprint Ref|TableNameOnly=Capacitors__ceramic|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Capacitors__ceramic.Library Ref|TableNameOnly=Capacitors__ceramic|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Capacitors__ceramic.Displayed reference|TableNameOnly=Capacitors__ceramic|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Capacitors__electrolytic.Reference|TableNameOnly=Capacitors__electrolytic|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Capacitors__electrolytic.Description|TableNameOnly=Capacitors__electrolytic|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Capacitors__electrolytic.Footprint Ref|TableNameOnly=Capacitors__electrolytic|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Capacitors__electrolytic.Library Ref|TableNameOnly=Capacitors__electrolytic|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Capacitors__electrolytic.Displayed reference|TableNameOnly=Capacitors__electrolytic|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Capacitors__tantalum.Reference|TableNameOnly=Capacitors__tantalum|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Capacitors__tantalum.Description|TableNameOnly=Capacitors__tantalum|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Capacitors__tantalum.Footprint Ref|TableNameOnly=Capacitors__tantalum|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Capacitors__tantalum.Library Ref|TableNameOnly=Capacitors__tantalum|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Capacitors__tantalum.Displayed reference|TableNameOnly=Capacitors__tantalum|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Connectors__Power.Reference|TableNameOnly=Connectors__Power|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Connectors__Power.Description|TableNameOnly=Connectors__Power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Connectors__Power.Footprint Ref|TableNameOnly=Connectors__Power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Connectors__Power.Library Ref|TableNameOnly=Connectors__Power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Connectors__Power.Displayed reference|TableNameOnly=Connectors__Power|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Connectors__RF.Reference|TableNameOnly=Connectors__RF|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Connectors__RF.Description|TableNameOnly=Connectors__RF|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Connectors__RF.Footprint Ref|TableNameOnly=Connectors__RF|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Connectors__RF.Library Ref|TableNameOnly=Connectors__RF|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Connectors__RF.Displayed reference|TableNameOnly=Connectors__RF|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=Connectors__board signal.Reference|TableNameOnly=Connectors__board signal|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=Connectors__board signal.Description|TableNameOnly=Connectors__board signal|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=Connectors__board signal.Footprint Ref|TableNameOnly=Connectors__board signal|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=Connectors__board signal.Library Ref|TableNameOnly=Connectors__board signal|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=Connectors__board signal.Displayed reference|TableNameOnly=Connectors__board signal|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=Inductors.Reference|TableNameOnly=Inductors|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=Inductors.Description|TableNameOnly=Inductors|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=Inductors.Footprint Ref|TableNameOnly=Inductors|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=Inductors.Library Ref|TableNameOnly=Inductors|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=Inductors.Displayed reference|TableNameOnly=Inductors|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=Integrated circuits__CPU.Description|TableNameOnly=Integrated circuits__CPU|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=Integrated circuits__CPU.Footprint Ref|TableNameOnly=Integrated circuits__CPU|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=Integrated circuits__CPU.Library Ref|TableNameOnly=Integrated circuits__CPU|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=Integrated circuits__CPU.Reference|TableNameOnly=Integrated circuits__CPU|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=Integrated circuits__Clock & Timing.Reference|TableNameOnly=Integrated circuits__Clock & Timing|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=Integrated circuits__Clock & Timing.Description|TableNameOnly=Integrated circuits__Clock & Timing|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=Integrated circuits__Clock & Timing.Footprint Ref|TableNameOnly=Integrated circuits__Clock & Timing|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=Integrated circuits__Clock & Timing.Library Ref|TableNameOnly=Integrated circuits__Clock & Timing|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=Integrated circuits__Clock & Timing.Displayed reference|TableNameOnly=Integrated circuits__Clock & Timing|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=Integrated circuits__FPGA.Reference|TableNameOnly=Integrated circuits__FPGA|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=Integrated circuits__FPGA.Description|TableNameOnly=Integrated circuits__FPGA|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=Integrated circuits__FPGA.Footprint Ref|TableNameOnly=Integrated circuits__FPGA|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=Integrated circuits__FPGA.Library Ref|TableNameOnly=Integrated circuits__FPGA|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=Integrated circuits__FPGA.Displayed reference|TableNameOnly=Integrated circuits__FPGA|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=Integrated circuits__Interface.Reference|TableNameOnly=Integrated circuits__Interface|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=Integrated circuits__Interface.Description|TableNameOnly=Integrated circuits__Interface|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Integrated circuits__Interface.Footprint Ref|TableNameOnly=Integrated circuits__Interface|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Integrated circuits__Interface.Library Ref|TableNameOnly=Integrated circuits__Interface|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=Integrated circuits__Interface.Displayed reference|TableNameOnly=Integrated circuits__Interface|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=Integrated circuits__Logic.Reference|TableNameOnly=Integrated circuits__Logic|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=Integrated circuits__Logic.Description|TableNameOnly=Integrated circuits__Logic|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=Integrated circuits__Logic.Footprint Ref|TableNameOnly=Integrated circuits__Logic|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=Integrated circuits__Logic.Library Ref|TableNameOnly=Integrated circuits__Logic|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=Integrated circuits__Logic.Displayed reference|TableNameOnly=Integrated circuits__Logic|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=Integrated circuits__Memory.Reference|TableNameOnly=Integrated circuits__Memory|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=Integrated circuits__Memory.Description|TableNameOnly=Integrated circuits__Memory|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=Integrated circuits__Memory.Footprint Ref|TableNameOnly=Integrated circuits__Memory|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=Integrated circuits__Memory.Library Ref|TableNameOnly=Integrated circuits__Memory|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=Integrated circuits__Memory.Displayed reference|TableNameOnly=Integrated circuits__Memory|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=Integrated circuits__Power management.Description|TableNameOnly=Integrated circuits__Power management|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=Integrated circuits__Power management.Footprint Ref|TableNameOnly=Integrated circuits__Power management|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=Integrated circuits__Power management.Library Ref|TableNameOnly=Integrated circuits__Power management|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=Integrated circuits__Power management.Displayed reference|TableNameOnly=Integrated circuits__Power management|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=Integrated circuits__Power management.Reference|TableNameOnly=Integrated circuits__Power management|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=Integrated circuits__RF.Reference|TableNameOnly=Integrated circuits__RF|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=Integrated circuits__RF.Description|TableNameOnly=Integrated circuits__RF|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=Integrated circuits__RF.Footprint Ref|TableNameOnly=Integrated circuits__RF|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=Integrated circuits__RF.Library Ref|TableNameOnly=Integrated circuits__RF|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=Integrated circuits__RF.Displayed reference|TableNameOnly=Integrated circuits__RF|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=Integrated circuits__Signal conditioning.Reference|TableNameOnly=Integrated circuits__Signal conditioning|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=Integrated circuits__Signal conditioning.Description|TableNameOnly=Integrated circuits__Signal conditioning|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=Integrated circuits__Signal conditioning.Footprint Ref|TableNameOnly=Integrated circuits__Signal conditioning|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=Integrated circuits__Signal conditioning.Library Ref|TableNameOnly=Integrated circuits__Signal conditioning|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=Integrated circuits__Signal conditioning.Displayed reference|TableNameOnly=Integrated circuits__Signal conditioning|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=Mechanical.Reference|TableNameOnly=Mechanical|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=Mechanical.Description|TableNameOnly=Mechanical|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=Mechanical.Footprint Ref|TableNameOnly=Mechanical|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=Mechanical.Library Ref|TableNameOnly=Mechanical|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=Mechanical.Displayed reference|TableNameOnly=Mechanical|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=Modules__Power.Description|TableNameOnly=Modules__Power|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=Modules__Power.Footprint Ref|TableNameOnly=Modules__Power|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=Modules__Power.Library Ref|TableNameOnly=Modules__Power|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=Modules__Power.Displayed reference|TableNameOnly=Modules__Power|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=Modules__Power.Reference|TableNameOnly=Modules__Power|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=Optoelectronics.Reference|TableNameOnly=Optoelectronics|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=Optoelectronics.Description|TableNameOnly=Optoelectronics|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=Optoelectronics.Footprint Ref|TableNameOnly=Optoelectronics|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=Optoelectronics.Library Ref|TableNameOnly=Optoelectronics|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=Optoelectronics.Displayed reference|TableNameOnly=Optoelectronics|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=Resistors__Fixed.Reference|TableNameOnly=Resistors__Fixed|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=Resistors__Fixed.Description|TableNameOnly=Resistors__Fixed|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=Resistors__Fixed.Footprint Ref|TableNameOnly=Resistors__Fixed|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=Resistors__Fixed.Library Ref|TableNameOnly=Resistors__Fixed|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=Resistors__Fixed.Displayed reference|TableNameOnly=Resistors__Fixed|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=Resistors__Variable.Reference|TableNameOnly=Resistors__Variable|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=Resistors__Variable.Description|TableNameOnly=Resistors__Variable|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=Resistors__Variable.Footprint Ref|TableNameOnly=Resistors__Variable|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=Resistors__Variable.Library Ref|TableNameOnly=Resistors__Variable|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=Resistors__Variable.Displayed reference|TableNameOnly=Resistors__Variable|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=Semiconductors__dicretes.Reference|TableNameOnly=Semiconductors__dicretes|FieldNameOnly=Reference|FieldType=0|ParameterName=Reference|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=Semiconductors__dicretes.Description|TableNameOnly=Semiconductors__dicretes|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=Semiconductors__dicretes.Footprint Ref|TableNameOnly=Semiconductors__dicretes|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=Semiconductors__dicretes.Library Ref|TableNameOnly=Semiconductors__dicretes|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=Semiconductors__dicretes.Displayed reference|TableNameOnly=Semiconductors__dicretes|FieldNameOnly=Displayed reference|FieldType=1|ParameterName=Displayed reference|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
