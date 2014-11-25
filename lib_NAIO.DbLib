@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=D:\altium\Librairie_Altium\Base_Naio.mdb;Persist Security Info=False
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=F:\Altium\Librairies\Base_Naio.mdb;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -19,7 +19,7 @@ LibrarySearchPath=.\
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Resistors__Fixed
+LastFocusedTable=Mechanical
 [Table1]
 SchemaName=
 TableName=Antennaes
@@ -137,6 +137,9 @@ TableName=Mechanical
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Reference0=103|Description0=195|Footprint Ref0=174|Library Ref0=134|Displayed reference0=117|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=65|Footprint description0=177|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=54|helpURL0=504|Signal Integrity0=92|Simulation0=71|Supplier 10=70|Supplier Part Number 10=132|Validated0=67|Supplier 20=70|Supplier Part Number 20=132
 [Table20]
 SchemaName=
 TableName=Modules__Power
@@ -155,9 +158,6 @@ TableName=Resistors__Fixed
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Reference0=119|Description0=165|Footprint Ref0=84|Library Ref0=74|Displayed reference0=117|Value0=56|Tolerance0=71|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=118|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=49|helpURL0=374|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=133|Supplier 20=70|Supplier Part Number 20=140
 [Table23]
 SchemaName=
 TableName=Resistors__Variable
