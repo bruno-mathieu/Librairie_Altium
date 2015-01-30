@@ -19,13 +19,16 @@ LibrarySearchPath=.\
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Resistors__Fixed
+LastFocusedTable=Antennaes
 [Table1]
 SchemaName=
 TableName=Antennaes
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=reference0=99|Description0=133|Library Ref0=82|Footprint Ref0=178|Displayed reference0=117|Component type0=100|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=118|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=43|helpURL0=580|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=132|Supplier 20=70|Supplier Part Number 20=132|Supplier 30=70|Supplier Part Number 30=132|Supplier 40=70|Supplier Part Number 40=132
 [Table2]
 SchemaName=
 TableName=Capacitors__ceramic
@@ -152,9 +155,6 @@ TableName=Resistors__Fixed
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Reference0=119|Description0=165|Footprint Ref0=84|Library Ref0=74|Displayed reference0=117|Value0=56|Tolerance0=71|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=118|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=66|helpURL0=374|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=134|Supplier 20=70|Supplier Part Number 20=140
 [Table23]
 SchemaName=
 TableName=Resistors__Variable
