@@ -19,7 +19,7 @@ LibrarySearchPath=.\
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Integrated circuits__Power management
+LastFocusedTable=Inductors
 [Table1]
 SchemaName=
 TableName=Antennaes
@@ -32,9 +32,6 @@ TableName=Capacitors__ceramic
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Reference0=120|Description0=214|Footprint Ref0=84|Library Ref0=74|Displayed reference0=117|Value0=50|Max Voltage0=82|Tolerance0=71|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=125|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=43|helpURL0=748|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=132|Supplier 20=70|Supplier Part Number 20=132|Supplier 30=70|Supplier Part Number 30=132
 [Table3]
 SchemaName=
 TableName=Capacitors__electrolytic
@@ -65,24 +62,21 @@ TableName=Connectors__board signal
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Reference0=141|Description0=426|Footprint Ref0=272|Library Ref0=230|Displayed reference0=203|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=70|Footprint description0=223|Pin Count0=69|Manufacturer0=121|Frequency band0=100|Gain0=45|Rev0=72|helpURL0=652|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=137|Supplier 20=70|Supplier Part Number 20=132
 [Table8]
 SchemaName=
 TableName=Inductors
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Reference0=99|Description0=259|Footprint Ref0=154|Library Ref0=212|Displayed reference0=117|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=143|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=66|helpURL0=363|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=132|Supplier 20=70|Supplier Part Number 20=132
 [Table9]
 SchemaName=
 TableName=Integrated circuits__CPU
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=433|Footprint Ref0=161|Library Ref0=111|Reference0=99|Displayed reference0=117|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=152|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=43|helpURL0=342|componentlink1Description0=151|componentlink1URL0=258|componentlink2Description0=151|componentlink2URL0=280|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=132|Supplier 20=70|Supplier Part Number 20=132
 [Table10]
 SchemaName=
 TableName=Integrated circuits__Clock & Timing
@@ -119,9 +113,6 @@ TableName=Integrated circuits__Power management
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Description0=316|Footprint Ref0=130|Library Ref0=126|Displayed reference0=117|Reference0=155|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=136|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=62|helpURL0=357|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=141|Supplier 20=70|Supplier Part Number 20=148
 [Table16]
 SchemaName=
 TableName=Integrated circuits__RF
@@ -146,9 +137,6 @@ TableName=Mechanical
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Reference0=127|Description0=210|Footprint Ref0=174|Library Ref0=160|Displayed reference0=117|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=65|Footprint description0=177|Pin Count0=69|Manufacturer0=144|Frequency band0=100|Gain0=45|Rev0=54|helpURL0=504|Signal Integrity0=92|Simulation0=71|Supplier 10=70|Supplier Part Number 10=132|Validated0=67|Supplier 20=70|Supplier Part Number 20=132|Supplier 30=70|Supplier Part Number 30=132
 [Table20]
 SchemaName=
 TableName=Modules__Power
@@ -161,18 +149,12 @@ TableName=Optoelectronics
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Reference0=129|Description0=282|Footprint Ref0=155|Library Ref0=148|Displayed reference0=117|Value0=50|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=118|Pin Count0=69|Manufacturer0=116|Frequency band0=100|Gain0=57|Rev0=43|helpURL0=348|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=132|Supplier 20=70|Supplier Part Number 20=148
 [Table22]
 SchemaName=
 TableName=Resistors__Fixed
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=Footprint Ref0=Up
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Reference0=119|Description0=165|Footprint Ref0=84|Library Ref0=74|Displayed reference0=117|Value0=56|Tolerance0=71|Max Voltage0=82|Max Current0=80|Rated Power0=85|Material0=60|Footprint description0=118|Pin Count0=69|Manufacturer0=86|Frequency band0=100|Gain0=45|Rev0=66|helpURL0=374|Signal Integrity0=92|Simulation0=71|Validated0=67|Supplier 10=70|Supplier Part Number 10=134|Supplier 20=70|Supplier Part Number 20=140
 [Table23]
 SchemaName=
 TableName=Resistors__Variable
